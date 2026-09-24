@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #8570d1;
+  --primary-color-alt: #5c518a;
+  --linear-gradient: linear-gradient(
+    54deg,
+    rgba(67, 69, 154, 0.95) 34%,
+    hsla(0, 58%, 83%, 0.95)
+  );
+}
